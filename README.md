@@ -2,6 +2,7 @@
 
 Analyzed a large-scale behavioral dataset to model the online learner journey, identify key drop-off points in the enrollment funnel, and provide data-driven recommendations to increase student conversion. This project demonstrates end-to-end BI skills from data cleaning (ETL) to interactive dashboarding and insight generation.
 
+Dashboard Link:-
 [https://app.powerbi.com/groups/me/reports/0705ec4e-29a3-4bfa-b0d2-75d3e9475513/2c5a0c2cca0e92059653?experience=power-bi]
 Dashboard Preview
 Key Features & Analysis
